@@ -1,6 +1,10 @@
 # Sports Analytics Management System  
 ### DBMS Mini-Project Report
 
+#Made by Nikhil Thomas Sojan and Navika Srikanth 
+
+---
+
 ## 1. Introduction
 This project implements a complete Sports Analytics Management System designed to manage teams, players, matches, scores, and injuries while providing analytical insights through a web-based dashboard. The system includes authentication, administrative controls, data visualization, and automated audit logging. It is built using a modern tech stack and emphasizes clean data management and analytical depth.
 
