@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Byte-compiled / logs
+*.log
+*.db
+*.sqlite3
+
+# Environment / credentials
+*.env
+.env.*
+*.ini
+config.json
+
+# Node stuff (if any)
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# DB file
+populate.sql
