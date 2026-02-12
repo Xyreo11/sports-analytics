@@ -1,7 +1,7 @@
 # Sports Analytics Management System  
 ### DBMS Mini-Project Report
 
-#Made by Nikhil Thomas Sojan and Navika Srikanth 
+# Made by Nikhil Thomas Sojan and Navika Srikanth 
 
 ---
 
